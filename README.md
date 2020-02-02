@@ -10,4 +10,4 @@ Vapour is a Steam-Based store with a friendly and simple user-interface reliably
 * Standalone Program
 
 # Discord
-Join the Development Discord server for more information and updates at discord.gg/up6MCQP
+Join the Development Discord server for more information and updates [here](discord.gg/up6MCQP).
