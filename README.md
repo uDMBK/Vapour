@@ -13,5 +13,6 @@ For more information on topics such as Custom ID's and themes view the [wiki](ht
 * Lightweight (Less than 500kb!)
 * Standalone Program
 
-# Discord
+# Social
 Join the Development Discord server for more information and updates [here](discord.gg/up6MCQP).
+Follow our twitter page [here](https://twitter.com/UDmbk)
